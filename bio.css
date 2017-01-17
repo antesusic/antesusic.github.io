@@ -1,0 +1,43 @@
+﻿*{
+	font-family:serif;
+}
+
+#copyright{
+	/*border:1px dashed;*/
+	float:left;	
+	position:fixed;
+	z-index:1;
+	/*left:1.5em;*/
+	bottom:0em;
+}
+
+#navbar{
+	/*border:1px dashed;*/
+	float:left;
+	position:fixed;
+	z-index:1;
+}
+
+#contact{
+	/*border:1px dashed;*/
+	float:left;
+	position:fixed;
+	z-index:1;
+	bottom:2em;
+}
+
+.img{
+	width:500px;
+	position:relative;
+	margin-bottom:3em;
+	margin-left:auto;
+	margin-right:auto;
+	padding:1em;
+}
+
+.tekst{
+	width:500px;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+}

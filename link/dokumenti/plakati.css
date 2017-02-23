@@ -1,0 +1,43 @@
+﻿/*za skrivanje scroll bara*/
+body {
+	overflow: hidden;
+}
+
+#copyright {
+	/*border:1px dashed;*/
+	float:left;	
+	position:fixed;
+	z-index:1;
+}
+
+#directions {
+	right:1em;	
+	position:fixed;
+	z-index:1;
+	text-align: right;
+}
+
+#download{
+	/*border:1px dashed;*/
+	width:100%;
+	position:fixed;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}	
+
+/*p {
+	background-color:white;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+﻿git init					pokreni git u folderu
+git status					status fajlova
+git add .					dodaj sve fajlove
+git commit -m ""				između navodnika ime commit-a
+git push -v					pošalji fajlove/ažuriraj web stranicu
